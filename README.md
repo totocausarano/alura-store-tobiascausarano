@@ -11,18 +11,18 @@ En este repositorio encontrarás un análisis de datos donde comparé el desempe
 * **Satisfacción:** Calificación promedio dada por los clientes.
 * **Logística:** Costos promedio de envío.
 
-## 🛠️ Tecnologías y Herramientas
+##  Tecnologías y Herramientas
 Todo el análisis fue realizado en **Python** utilizando Google Colab. Las principales librerías usadas fueron:
 * **Pandas:** Para la limpieza, agrupación y manipulación de los datos.
 * **Matplotlib:** Para la generación de gráficos comparativos (barras agrupadas, horizontales y subplots).
 
-## 🔍 Hallazgos Principales
+##  Hallazgos Principales
 Tras procesar los datos, estos fueron los puntos más relevantes:
 1.  **Líder en Ventas:** La **Tienda 1** es la que más factura (más de $1,150 millones), impulsada por la venta de productos de alto valor como tecnología.
 2.  **Volumen vs. Valor:** La **Tienda 4** tiene un buen volumen de ventas, pero sus ingresos son los más bajos porque sus productos mas vendidos son de menor precio.
 3.  **Satisfacción:** Aunque la Tienda 1 vende más, tiene la calificación más baja (3.97). La Tienda 3 es la mejor valorada por los clientes (4.05).
 
-## 🚀 Conclusión
+##  Conclusión
 Basado en los datos, la recomendación final del proyecto es **vender la Tienda 4**. 
 
 **¿Por qué?**
